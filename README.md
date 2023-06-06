@@ -82,10 +82,3 @@ Contributions to the Daily Tasks web application are welcome! If you would like 
 
 The Daily Tasks web application is open source and available under the [MIT License](https://opensource.org/licenses/MIT).
 
-## Contact
-
-If you have any questions or suggestions regarding the Daily Tasks web application, please contact us at [email@example.com](mailto:email@example.com).
-
----
-
-Feel free to customize and expand this README file according to your specific project requirements.
